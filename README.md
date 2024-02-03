@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thangnguyenvn98&label=Profile%20views&color=0e75b6&style=flat" alt="thangnguyenvn98" /> </p>
 
-- 🌱 I’m currently learning **.NET, GO, C#**
+- 🌱 I’m currently learning: **.NET, GO, C#, Redis**
 
-- 👨‍💻 All of my projects are available at [https://www.thangnguyento.com/](https://www.thangnguyento.com/)
+- 👨‍💻 All of my projects are available at: [https://www.thangnguyento.com/](https://www.thangnguyento.com/)
 
-- 💬 Ask me about **Next.JS, Flask, Python**
+- 💬 Ask me about: **Next.JS, Flask, Python**
 
-- 📫 How to reach me **thang.nguyen@torontomu.ca**
+- 📫 How to reach me: **thang.nguyen@torontomu.ca**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1U33Ai23h0Wa_7TAqTeRLlmQKhnpEsYw3/view?usp=sharing](https://drive.google.com/file/d/1U33Ai23h0Wa_7TAqTeRLlmQKhnpEsYw3/view?usp=sharing)
+- 📄 Know about my experiences: [https://drive.google.com/file/d/1U33Ai23h0Wa_7TAqTeRLlmQKhnpEsYw3/view?usp=sharing](https://drive.google.com/file/d/1U33Ai23h0Wa_7TAqTeRLlmQKhnpEsYw3/view?usp=sharing)
 
-- ⚡ Fun fact **I love to play badminton for my indoor activities and also snowboarding during the winter.**
+- ⚡ Fun fact: **I love playing badminton for indoor activities and snowboarding during the winter.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
