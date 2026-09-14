@@ -36,8 +36,6 @@
 </div>
 </br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangnguyenvn98&show_icons=true&locale=en&layout=compact" alt="thangnguyenvn98" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thangnguyenvn98&show_icons=true&locale=en" alt="thangnguyenvn98" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thangnguyenvn98&" alt="thangnguyenvn98"/></p>
