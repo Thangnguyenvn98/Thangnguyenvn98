@@ -28,7 +28,7 @@
 <div align="center">
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,githubactions,jenkins,grafana,prometheus"/> <br>
-  <img src="https://skillicons.dev/icons?i=linux,nginx,ansible,redis,postgres,bash,go"/> <img alt="Buildkite" height="48" src="./buildkite-icon.svg"/> <br>
+  <img src="https://skillicons.dev/icons?i=linux,nginx,ansible,redis,postgres,bash,go"/> <img alt="Buildkite" src="./buildkite-icon.svg"/> <br>
 </a>
 </div>
 
